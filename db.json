@@ -1,0 +1,38 @@
+{
+  "account": [
+    {
+      "id": 1,
+      "amount": 15
+    },
+    {
+      "id": 2,
+      "amount": 25
+    },
+    {
+      "id": 3,
+      "amount": 35
+    },
+    {
+      "id": 4,
+      "amount": 45
+    },
+    {
+      "id": 7,
+      "amount": 900
+    },
+    {
+      "id": 12,
+      "amount": 9900
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
